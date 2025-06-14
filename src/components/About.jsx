@@ -11,7 +11,7 @@ const About = () => {
         <div className="p-7 mx-auto relative">
           <div>
             <h2 className="text-3xl font-bold leading-tight gray-primary-color sm:text-4xl lg:text-5xl">
-              Hello, I am <span className='italic'>Jameson</span>
+              Hello, I am <span className='italic'> Isaac</span>
             </h2>
             <p className="max-w-lg mt-3 text-xl leading-relaxed text-gray-400 md:mt-8">
               Hi! I’m Jameson Isaac J. Manabat, a Cyclist who wants to be a professional in the future and also a Bachelor of Science in Computer Science (BSCS) student at Cavite State University 
