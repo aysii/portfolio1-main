@@ -64,3 +64,4 @@ const FutureInLife = () => {
 };
 
 export default FutureInLife;
+  
